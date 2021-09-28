@@ -2,7 +2,7 @@ GANTRY5_PARTICLE_MENU_INFO: "La partícula de menú está diseñada para usarse 
 
 GANTRY5_PLATFORM_OOPS: "Oops"
 GANTRY5_PLATFORM_DELETE_OUTLINE: "Borrar Plantilla"
-GANTRY5_PLATFORM_DELETE_OUTLINE_DESC: "¿Estás seguro que quiers borrar <strong>%s</strong> Plantilla?"
+GANTRY5_PLATFORM_DELETE_OUTLINE_DESC: "¿Estás seguro que quiers borrar la Plantilla <strong>%s</strong>?"
 GANTRY5_PLATFORM_DELETE_POSITION: "Borrar Posición"
 GANTRY5_PLATFORM_DELETE_POSITION_DESC: "¿Está seguro de que desea eliminar esta posición?"
 GANTRY5_PLATFORM_CONFIRM: "Confirmar"
